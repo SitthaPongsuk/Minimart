@@ -1,0 +1,5 @@
+1 Farm house 12 Baht
+2 Euro 10 Baht
+3 Goldbread 15 Baht
+4 Le Pen 10 Baht
+5 Malkist 5 Baht

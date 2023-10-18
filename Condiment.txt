@@ -1,0 +1,10 @@
+1 Fish sauce 32 Baht
+2 Sugar 28 Baht
+3 Chilli peppers 15 Baht
+4 Vinegar 13 Baht
+5 Rosdi 27 Baht
+6 Phongchuros 31 Baht
+7 Vegetable oil 50 Baht
+8 Chili paste 35 Baht
+9 Oyster sauce 55 Baht
+10 Eeasoning sauces 60 Baht

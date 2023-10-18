@@ -1,0 +1,8 @@
+1 Crispy snacks
+2 Bread
+3 Drink
+4 Instant noodles
+5 Condiment
+6 Consumer products
+7 Charge money
+0 Exit program

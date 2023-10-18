@@ -1,0 +1,7 @@
+Product : Amount = Total price
+Twisco : 5 = 50
+Air fresheners : 1 = 98
+Product : Amount = Total price
+Twisco : 5 = 50
+Air fresheners : 1 = 98
+Total Price : 296

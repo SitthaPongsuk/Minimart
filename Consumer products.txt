@@ -1,0 +1,9 @@
+1 Bathroom cleaner 44 Baht
+2 Dishwashing liquid 38 Baht
+3 Detergent 40 Baht
+4 Fabric softeners 65 Baht
+5 Floor cleaners 55 Baht
+6 Tissue paper 25 Baht
+7 Sanitary napkins 30 Baht
+8 Bahtaby diapers 65 Baht
+9 Air fresheners 98 Baht

@@ -1,0 +1,10 @@
+1 Oishi 15 Baht
+2 Ichitan 15 Baht
+3 Pureriku 12 Baht
+4 Yen Yen 10 Baht
+5 C-vitt 15 Baht
+6 Pepsi 20 Baht
+7 Coke 20 Baht
+8 Crystals 8 Baht
+9 Sponsors 12 Baht
+10 M 150 12 Baht
